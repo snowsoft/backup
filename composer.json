@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/backup",
+    "name": "snowsoft/backup",
     "description": "Backup extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "backup"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": ">=1.5",
+        "snowsoft/laravel-admin": ">=1.5",
         "spatie/laravel-backup": ">=5.0"
     },
     "require-dev": {
